@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3edBKBgnBLiHVipSSzDUn2tRZ2BddNDfd/SEZ6CszXQ=",
+  "Source": "demo_web_pi",
+  "BasePath": "_content/demo_web_pi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
